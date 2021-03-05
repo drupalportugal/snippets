@@ -1,4 +1,4 @@
-# snippets
+# Drupal Snippets
 Repository of snippets contributed by the community.
 
 # How to contribute?
